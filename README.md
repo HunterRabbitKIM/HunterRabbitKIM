@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=609926&height=300&section=header&text=Hunter%20Rabbit&fontSize=90)
-게임을 제작하는 대학생입니다
+![header](https://capsule-render.vercel.app/api?type=waving&color=609926&height=250&section=header&text=Hunter%20Rabbit&fontSize=90&fontAlignY=30&desc=게임을%20제작하는%20대학생입니다&descAlignY=60&descAlign=70) 
 ## 🛠 Tech Stack 🛠
 **Platforms & Languages** 
 
