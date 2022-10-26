@@ -1,4 +1,4 @@
-###  HunterRabbit
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hunter%20Rabbit&fontSize=90)
 게임을 제작하는 대학생입니다
 ## 🛠 Tech Stack 🛠
 **Platforms & Languages** 
