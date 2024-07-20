@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=609926&height=250&section=header&text=Hunter%20Rabbit&fontSize=90&fontAlignY=30&fontColor=ffffff&desc=게임을%20제작하는%20대학생입니다&descAlignY=60&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=609926&height=250&section=header&text=Hunter%20Rabbit&fontSize=90&fontAlignY=30&fontColor=ffffff&desc=게임을%20제작하는%20대학원생입니다&descAlignY=60&descAlign=70)
 
 
 ## 🛠 Tech Stack 🛠
