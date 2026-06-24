@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=C Sharp&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=CSharp&logoColor=white">
 
 **Tools**
 
